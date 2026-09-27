@@ -1,0 +1,6 @@
+{
+  "name": "Сургуулийн хүүхдийн эрсдэлийн үнэлгээний систем",
+  "description": "1г эрсдэл 2026 судалгаанд суурилсан сургуулийн хүүхдийн эрсдэлийн үнэлгээ, статистик, Google Sheets Apps Script дэмжлэгтэй цахим систем",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

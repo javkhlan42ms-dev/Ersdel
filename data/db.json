@@ -1,0 +1,560 @@
+{
+  "settings": {
+    "schoolName": "Хөвсгөл аймгийн 1-р сургууль",
+    "academicYear": "2025-2026",
+    "surveyOpen": true,
+    "gasWebAppUrl": "https://script.google.com/macros/s/AKfycbyEvEUw_eDk6IMbXeQw1zNVBgaIXUnS58mF556BRB07ENsiM3uNzsj_HobIe0r5pXIc/exec",
+    "gasConnected": true,
+    "googleSheetsSpreadsheetId": "1khD5nF99T5v9NqZgX4kiC4Cc-JiohM2nJfPXRVR9ZEg",
+    "googleSheetsUrl": "https://docs.google.com/spreadsheets/d/1khD5nF99T5v9NqZgX4kiC4Cc-JiohM2nJfPXRVR9ZEg/edit",
+    "googleSheetsConnected": true,
+    "googleSheetsLastSync": "2026-09-26T14:07:38.898Z"
+  },
+  "classes": [
+    {
+      "id": "CLS_7_1",
+      "name": "7А",
+      "grade": 7,
+      "sectionLetter": "А",
+      "teacherId": "TCH_7_1",
+      "teacherName": "Б. Бат-Эрдэнэ",
+      "teacherCode": "TEACH-7A",
+      "academicYear": "2025-2026",
+      "schoolName": "Хөвсгөл аймгийн 1-р сургууль"
+    },
+    {
+      "id": "CLS_8_2",
+      "name": "8Б",
+      "grade": 8,
+      "sectionLetter": "Б",
+      "teacherId": "TCH_8_2",
+      "teacherName": "Д. Цэцэгмаа",
+      "teacherCode": "TEACH-8B",
+      "academicYear": "2025-2026",
+      "schoolName": "Хөвсгөл аймгийн 1-р сургууль"
+    },
+    {
+      "id": "CLS_9_3",
+      "name": "9В",
+      "grade": 9,
+      "sectionLetter": "В",
+      "teacherId": "TCH_9_3",
+      "teacherName": "М. Баяр",
+      "teacherCode": "TEACH-9V",
+      "academicYear": "2025-2026",
+      "schoolName": "Хөвсгөл аймгийн 1-р сургууль"
+    },
+    {
+      "id": "CLS_12_4",
+      "name": "12а Тэгшжаргал",
+      "grade": 12,
+      "sectionLetter": "а Тэгшжаргал",
+      "teacherId": "TCH_12_4",
+      "teacherName": "12а Тэгшжаргал Ангийн багш",
+      "teacherCode": "TEACH-12ATEGSHJARGAL",
+      "academicYear": "2025-2026",
+      "schoolName": "Хөвсгөл аймгийн 1-р сургууль"
+    },
+    {
+      "id": "CLS_7_5",
+      "name": "7а Дулсам",
+      "grade": 7,
+      "sectionLetter": "а Дулсам",
+      "teacherId": "TCH_7_5",
+      "teacherName": "7а Дулсам Ангийн багш",
+      "teacherCode": "TEACH-7ADULSAM",
+      "academicYear": "2025-2026",
+      "schoolName": "Хөвсгөл аймгийн 1-р сургууль"
+    },
+    {
+      "id": "CLS_7_6",
+      "name": "Дорж 7а",
+      "grade": 7,
+      "sectionLetter": "Дорж 7а",
+      "teacherId": "TCH_7_6",
+      "teacherName": "Дорж 7а Ангийн багш",
+      "teacherCode": "TEACH-DORJ7A",
+      "academicYear": "2025-2026",
+      "schoolName": "Хөвсгөл аймгийн 1-р сургууль"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "TCH_7_1",
+      "name": "Б. Бат-Эрдэнэ",
+      "teacherCode": "TEACH-7A",
+      "classId": "CLS_7_1",
+      "className": "7А",
+      "phone": "99112233"
+    },
+    {
+      "id": "TCH_8_2",
+      "name": "Д. Цэцэгмаа",
+      "teacherCode": "TEACH-8B",
+      "classId": "CLS_8_2",
+      "className": "8Б",
+      "phone": "99223344"
+    },
+    {
+      "id": "TCH_9_3",
+      "name": "М. Баяр",
+      "teacherCode": "TEACH-9V",
+      "classId": "CLS_9_3",
+      "className": "9В",
+      "phone": "99334455"
+    },
+    {
+      "id": "TCH_12_4",
+      "name": "12а Тэгшжаргал Ангийн багш",
+      "teacherCode": "TEACH-12ATEGSHJARGAL",
+      "classId": "CLS_12_4",
+      "className": "12а Тэгшжаргал",
+      "phone": ""
+    },
+    {
+      "id": "TCH_7_5",
+      "name": "7а Дулсам Ангийн багш",
+      "teacherCode": "TEACH-7ADULSAM",
+      "classId": "CLS_7_5",
+      "className": "7а Дулсам",
+      "phone": ""
+    },
+    {
+      "id": "TCH_7_6",
+      "name": "Дорж 7а Ангийн багш",
+      "teacherCode": "TEACH-DORJ7A",
+      "classId": "CLS_7_6",
+      "className": "Дорж 7а",
+      "phone": ""
+    }
+  ],
+  "students": [
+    {
+      "id": "STU_7A001",
+      "classId": "CLS_7_1",
+      "className": "7А",
+      "studentCode": "7A001",
+      "password": "A8K29P",
+      "fullName": "Болдын Тэмүүлэн",
+      "gender": "2",
+      "isSubmitted": true,
+      "submittedAt": "2026-03-01T10:15:00Z",
+      "riskLevel": "low",
+      "riskScore": 2
+    },
+    {
+      "id": "STU_7A002",
+      "classId": "CLS_7_1",
+      "className": "7А",
+      "studentCode": "7A002",
+      "password": "X4N72W",
+      "fullName": "Ганбаатарын Ариунболд",
+      "gender": "2",
+      "isSubmitted": true,
+      "submittedAt": "2026-03-02T14:30:00Z",
+      "riskLevel": "high",
+      "riskScore": 9
+    },
+    {
+      "id": "STU_7A003",
+      "classId": "CLS_7_1",
+      "className": "7А",
+      "studentCode": "7A003",
+      "password": "M9P15K",
+      "fullName": "Энхбатын Номин",
+      "gender": "1",
+      "isSubmitted": true,
+      "submittedAt": "2026-03-03T09:00:00Z",
+      "riskLevel": "medium",
+      "riskScore": 4
+    },
+    {
+      "id": "STU_7A004",
+      "classId": "CLS_7_1",
+      "className": "7А",
+      "studentCode": "7A004",
+      "password": "H3R88T",
+      "fullName": "Доржийн Наран",
+      "gender": "1",
+      "isSubmitted": false,
+      "riskScore": 0
+    },
+    {
+      "id": "STU_7A005",
+      "classId": "CLS_7_1",
+      "className": "7А",
+      "studentCode": "7A005",
+      "password": "V7C62Q",
+      "fullName": "Сүхээгийн Мөнх-Эрдэнэ",
+      "gender": "2",
+      "isSubmitted": false,
+      "riskScore": 0
+    },
+    {
+      "id": "STU_1790425191940_233",
+      "classId": "CLS_9_3",
+      "className": "9В",
+      "studentCode": "9V001",
+      "password": "DKTTN7",
+      "fullName": "Болд",
+      "gender": "2",
+      "isSubmitted": false
+    }
+  ],
+  "responses": {
+    "STU_7A_001": {
+      "Q001": "1",
+      "Q003": "7",
+      "Q004": "14",
+      "Q008": "4",
+      "Q012": "1",
+      "Q030": "1",
+      "Q035": "2",
+      "Q036": "2",
+      "Q037": "2",
+      "Q038": "2",
+      "Q053": "1",
+      "Q067": "1",
+      "Q071": "1",
+      "Q092": "8",
+      "Q093": "2",
+      "Q107": "1",
+      "Q108": "2",
+      "Q116": "2",
+      "Q123": "2",
+      "Q140": "2",
+      "Q141": "2",
+      "Q142": "3"
+    },
+    "STU_7A_002": {
+      "Q001": "2",
+      "Q003": "7",
+      "Q004": "1",
+      "Q008": "5",
+      "Q012": "2",
+      "Q030": "11",
+      "Q035": "1",
+      "Q037": "1",
+      "Q092": "1",
+      "Q093": "1",
+      "Q099": "1",
+      "Q108": "1",
+      "Q114": "1",
+      "Q115": "1",
+      "Q116": "1",
+      "Q123": "1",
+      "Q127": "1",
+      "Q142": "1"
+    },
+    "STU_7A_003": {
+      "Q001": "1",
+      "Q003": "7",
+      "Q004": "24",
+      "Q008": "4",
+      "Q012": "2",
+      "Q030": "3",
+      "Q035": "2",
+      "Q036": "2",
+      "Q037": "2",
+      "Q038": "2",
+      "Q053": "2",
+      "Q067": "1",
+      "Q071": "2",
+      "Q092": "8",
+      "Q093": "2",
+      "Q107": "1",
+      "Q114": "1",
+      "Q143": "1"
+    },
+    "STU_7A001": {
+      "Q001": "1",
+      "Q003": "7",
+      "Q004": "14",
+      "Q008": "4",
+      "Q012": "1",
+      "Q030": "1",
+      "Q035": "2",
+      "Q036": "2",
+      "Q037": "2",
+      "Q038": "2",
+      "Q053": "1",
+      "Q067": "1",
+      "Q071": "1",
+      "Q092": "8",
+      "Q093": "2",
+      "Q107": "1",
+      "Q108": "2",
+      "Q116": "2",
+      "Q123": "2",
+      "Q140": "2",
+      "Q141": "2",
+      "Q142": "3"
+    },
+    "STU_7A002": {
+      "Q001": "2",
+      "Q003": "7",
+      "Q004": "1",
+      "Q008": "5",
+      "Q012": "2",
+      "Q030": "11",
+      "Q035": "1",
+      "Q037": "1",
+      "Q092": "1",
+      "Q093": "1",
+      "Q099": "1",
+      "Q108": "1",
+      "Q114": "1",
+      "Q115": "1",
+      "Q116": "1",
+      "Q123": "1",
+      "Q127": "1",
+      "Q142": "1"
+    },
+    "STU_7A003": {
+      "Q001": "1",
+      "Q003": "7",
+      "Q004": "24",
+      "Q008": "4",
+      "Q012": "2",
+      "Q030": "3",
+      "Q035": "2",
+      "Q036": "2",
+      "Q037": "2",
+      "Q038": "2",
+      "Q053": "2",
+      "Q067": "1",
+      "Q071": "2",
+      "Q092": "8",
+      "Q093": "2",
+      "Q107": "1",
+      "Q114": "1",
+      "Q143": "1"
+    }
+  },
+  "logs": [
+    {
+      "id": "LOG_INIT_1",
+      "timestamp": "2026-09-23T10:14:49.353Z",
+      "userRole": "SYSTEM",
+      "userName": "Систем",
+      "action": "INIT",
+      "details": "Суралцагчийн эрсдлийн үнэлгээний төв сервер эхэллээ"
+    },
+    {
+      "id": "LOG_1790324826707",
+      "timestamp": "2026-09-25T08:27:06.707Z",
+      "userRole": "ADMIN",
+      "userName": "Ерөнхий Администратор",
+      "action": "LOGIN",
+      "details": "Админ системд нэвтэрлээ"
+    },
+    {
+      "id": "LOG_1790324994368",
+      "timestamp": "2026-09-25T08:29:54.368Z",
+      "userRole": "ADMIN",
+      "userName": "Ерөнхий Администратор",
+      "action": "BULK_TEACHER_IMPORT",
+      "details": "Багш нарыг олноор бүртгэлээ: 1 шинэ анги/багш үүсгэж, 0 багшийн мэдээллийг шинэчлэв"
+    },
+    {
+      "id": "LOG_1790325800108",
+      "timestamp": "2026-09-25T08:43:20.108Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790325800868",
+      "timestamp": "2026-09-25T08:43:20.868Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "TOGGLE_SURVEY",
+      "details": "Судалгааны төлөвийг НЭЭВ"
+    },
+    {
+      "id": "LOG_1790325800867",
+      "timestamp": "2026-09-25T08:43:20.867Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790326322733",
+      "timestamp": "2026-09-25T08:52:02.733Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790423752426",
+      "timestamp": "2026-09-26T11:55:52.426Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790423751418",
+      "timestamp": "2026-09-26T11:55:51.418Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790327575015",
+      "timestamp": "2026-09-25T09:12:55.015Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790327574723",
+      "timestamp": "2026-09-25T09:12:54.723Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790424025777",
+      "timestamp": "2026-09-26T12:00:25.777Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790424025651",
+      "timestamp": "2026-09-26T12:00:25.651Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790424297228",
+      "timestamp": "2026-09-26T12:04:57.228Z",
+      "userRole": "ADMIN",
+      "userName": "Ерөнхий Администратор",
+      "action": "BULK_TEACHER_IMPORT",
+      "details": "Багш нарыг олноор бүртгэлээ: 1 шинэ анги/багш үүсгэж, 0 багшийн мэдээллийг шинэчлэв"
+    },
+    {
+      "id": "LOG_1790424334322",
+      "timestamp": "2026-09-26T12:05:34.322Z",
+      "userRole": "TEACHER",
+      "userName": "Дорж 7а Ангийн багш",
+      "action": "LOGIN",
+      "details": "Дорж 7а Ангийн багш багш нэвтэрлээ"
+    },
+    {
+      "id": "LOG_1790424362428",
+      "timestamp": "2026-09-26T12:06:02.428Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790424362232",
+      "timestamp": "2026-09-26T12:06:02.232Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790424420637",
+      "timestamp": "2026-09-26T12:07:00.637Z",
+      "userRole": "ADMIN",
+      "userName": "Ерөнхий Администратор",
+      "action": "LOGIN",
+      "details": "Админ системд нэвтэрлээ"
+    },
+    {
+      "id": "LOG_1790425049093",
+      "timestamp": "2026-09-26T12:17:29.093Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790425047224",
+      "timestamp": "2026-09-26T12:17:27.224Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790425063048",
+      "timestamp": "2026-09-26T12:17:43.048Z",
+      "userRole": "ADMIN",
+      "userName": "Ерөнхий Администратор",
+      "action": "DELETE_TEACHER",
+      "details": "7а Дулсам Ангийн багш (TEACH-7ADULSAM, 7а Дулсам) багшийн эрхийг устгалаа"
+    },
+    {
+      "id": "LOG_1790425056396",
+      "timestamp": "2026-09-26T12:17:36.396Z",
+      "userRole": "ADMIN",
+      "userName": "Ерөнхий Администратор",
+      "action": "DELETE_CLASS",
+      "details": "Дорж 7а анги болон холбогдох багшийн бүртгэлийг устгалаа"
+    },
+    {
+      "id": "LOG_1790425167311",
+      "timestamp": "2026-09-26T12:19:27.311Z",
+      "userRole": "TEACHER",
+      "userName": "М. Баяр",
+      "action": "LOGIN",
+      "details": "М. Баяр багш нэвтэрлээ"
+    },
+    {
+      "id": "LOG_1790425191940",
+      "timestamp": "2026-09-26T12:19:51.940Z",
+      "userRole": "TEACHER",
+      "userName": "9В",
+      "action": "STUDENT_ADD",
+      "details": "Болд (9V001) нэмэгдлээ"
+    },
+    {
+      "id": "LOG_1790430921060",
+      "timestamp": "2026-09-26T13:55:21.060Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790430920796",
+      "timestamp": "2026-09-26T13:55:20.796Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790431390624",
+      "timestamp": "2026-09-26T14:03:10.624Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    },
+    {
+      "id": "LOG_1790431390318",
+      "timestamp": "2026-09-26T14:03:10.318Z",
+      "userRole": "ADMIN",
+      "userName": "Администратор",
+      "action": "SETTINGS_UPDATE",
+      "details": "Системийн тохиргоо шинэчлэгдлээ"
+    }
+  ]
+}

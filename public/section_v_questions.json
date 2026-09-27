@@ -1,0 +1,495 @@
+{
+  "schema_version": "2.0",
+  "section_id": 5,
+  "section_title": "V. Сурч боловсрох эрхийн хүрээнд",
+  "total_questions": 21,
+  "sub_sections_count": 4,
+  "description": "Сурч боловсрох эрхийн хүрээн дэх 4 дэд бүлэг, нийт 21 асуултын бүтэцчилсэн өгөгдөл болон өнгөний код",
+  "sub_sections": [
+    {
+      "id": "sub_5_1",
+      "order": 1,
+      "title": "Суралцах таатай орчин бүрдүүлэлт",
+      "color_name": "Цэнхэр / Blue",
+      "theme": {
+        "header": "#2563EB",
+        "background": "#EFF6FF",
+        "accent": "#3B82F6",
+        "border": "#BFDBFE",
+        "badge": "#DBEAFE",
+        "badge_text": "#1E40AF"
+      },
+      "responsive": {
+        "columns_mobile": 1,
+        "columns_desktop": 2,
+        "gap": "gap-3"
+      },
+      "questions_count": 7,
+      "questions": [
+        {
+          "id": "Q064",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцах таатай орчин бүрдүүлэлт",
+          "sub_section_id": "sub_5_1",
+          "source_row": 3,
+          "source_column": 113,
+          "question": "Өрх толгойлон амьдардаг",
+          "type": "radio",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Тийм" },
+            { "value": "2", "label": "Үгүй" }
+          ]
+        },
+        {
+          "id": "Q065",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцах таатай орчин бүрдүүлэлт",
+          "sub_section_id": "sub_5_1",
+          "source_row": 3,
+          "source_column": 115,
+          "question": "Дотуур байранд амьдардаг",
+          "type": "radio",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Тийм" },
+            { "value": "2", "label": "Үгүй" }
+          ]
+        },
+        {
+          "id": "Q066",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцах таатай орчин бүрдүүлэлт",
+          "sub_section_id": "sub_5_1",
+          "source_row": 3,
+          "source_column": 117,
+          "question": "Айлд амьдардаг",
+          "type": "radio",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Тийм" },
+            { "value": "2", "label": "Үгүй" }
+          ]
+        },
+        {
+          "id": "Q067",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцах таатай орчин бүрдүүлэлт",
+          "sub_section_id": "sub_5_1",
+          "source_row": 3,
+          "source_column": 119,
+          "question": "Гэр бүлийн орчин таатай эсэх",
+          "type": "radio",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Тийм" },
+            { "value": "2", "label": "Үгүй" }
+          ]
+        },
+        {
+          "id": "Q068",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцах таатай орчин бүрдүүлэлт",
+          "sub_section_id": "sub_5_1",
+          "source_row": 3,
+          "source_column": 121,
+          "question": "Гэрээс сургууль хүртлэх зай /км/",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "0.5 - 1 км" },
+            { "value": "2", "label": "1.5 - 2 км" },
+            { "value": "3", "label": "2.5 - 3 км" },
+            { "value": "4", "label": "3.5 - 4 км" },
+            { "value": "5", "label": "4.5 - 5 км" },
+            { "value": "6", "label": "5 км-ээс дээш" },
+            { "value": "7", "label": "Зам даваа, гол усаар явдаг" }
+          ]
+        },
+        {
+          "id": "Q069",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцах таатай орчин бүрдүүлэлт",
+          "sub_section_id": "sub_5_1",
+          "source_row": 3,
+          "source_column": 123,
+          "question": "Тавиул болон өрх толгойлдог бол улирлын амралтаар хэн ирж авдаг, хэнтэй явдаг",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Аав ээж" },
+            { "value": "2", "label": "Ах эгч" },
+            { "value": "3", "label": "Эмээ өвөө" },
+            { "value": "4", "label": "Аав ээжийн дүү" },
+            { "value": "5", "label": "Аав ээжийн ах эгч" },
+            { "value": "6", "label": "Аав ээжийн найз" },
+            { "value": "7", "label": "Нийтийн тээврийн унаагаар өөрөө явдаг" }
+          ]
+        },
+        {
+          "id": "Q070",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцах таатай орчин бүрдүүлэлт",
+          "sub_section_id": "sub_5_1",
+          "source_row": 3,
+          "source_column": 125,
+          "question": "Гэр бүлийн тогтвортой байдал",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Аав ээжтэйгээ хамт" },
+            { "value": "2", "label": "Салсан" },
+            { "value": "4", "label": "Аав тусдаа амьдардаг" },
+            { "value": "5", "label": "Ээж тусдаа амьдардаг" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub_5_2",
+      "order": 2,
+      "title": "Суралцагчийн хөгжил оролцооны ерөнхий байдал",
+      "color_name": "Нил ягаан / Purple",
+      "theme": {
+        "header": "#7C3AED",
+        "background": "#F5F3FF",
+        "accent": "#8B5CF6",
+        "border": "#DDD6FE",
+        "badge": "#EDE9FE",
+        "badge_text": "#5B21B6"
+      },
+      "responsive": {
+        "columns_mobile": 1,
+        "columns_desktop": 2,
+        "gap": "gap-3"
+      },
+      "questions_count": 6,
+      "questions": [
+        {
+          "id": "Q071",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцагчийн хөгжил оролцооны ерөнхий байдал",
+          "sub_section_id": "sub_5_2",
+          "source_row": 3,
+          "source_column": 127,
+          "question": "Сурах идэвх оролцооны төвшин",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Сайн" },
+            { "value": "2", "label": "Дунд" },
+            { "value": "3", "label": "Муу" }
+          ]
+        },
+        {
+          "id": "Q072",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцагчийн хөгжил оролцооны ерөнхий байдал",
+          "sub_section_id": "sub_5_2",
+          "source_row": 3,
+          "source_column": 129,
+          "question": "Тухайн хичээлийн жилд амжилт гаргасан",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Спорт" },
+            { "value": "2", "label": "Урлаг" },
+            { "value": "3", "label": "Олимпиад" },
+            { "value": "4", "label": "Амжилт гаргаагүй" }
+          ]
+        },
+        {
+          "id": "Q073",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцагчийн хөгжил оролцооны ерөнхий байдал",
+          "sub_section_id": "sub_5_2",
+          "source_row": 3,
+          "source_column": 131,
+          "question": "Тухайн хичээлийн жилд өөр сургуулиас шилжиж ирсэн эсэх",
+          "type": "radio",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Тийм" },
+            { "value": "2", "label": "Үгүй" }
+          ]
+        },
+        {
+          "id": "Q074",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцагчийн хөгжил оролцооны ерөнхий байдал",
+          "sub_section_id": "sub_5_2",
+          "source_row": 3,
+          "source_column": 133,
+          "question": "Тухайн хичээлийн жилд ямар нэгэн дугуйлан, секцэнд хамрагдсан эсэх",
+          "type": "radio",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Тийм" },
+            { "value": "2", "label": "Үгүй" }
+          ]
+        },
+        {
+          "id": "Q075",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцагчийн хөгжил оролцооны ерөнхий байдал",
+          "sub_section_id": "sub_5_2",
+          "source_row": 3,
+          "source_column": 135,
+          "question": "Сурагчийн дүрэмт хувцастай эсэх",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Бүрэн хувцастай" },
+            { "value": "2", "label": "Цамц өмдтэй" },
+            { "value": "3", "label": "Зөвхөн цамцтай" },
+            { "value": "4", "label": "Дүрэмт хувцасгүй" }
+          ]
+        },
+        {
+          "id": "Q076",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Суралцагчийн хөгжил оролцооны ерөнхий байдал",
+          "sub_section_id": "sub_5_2",
+          "source_row": 3,
+          "source_column": 137,
+          "question": "Хичээлийн хэрэглэгдэхүүнтэй эсэх",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Бүрэн хэрэглэгдэхүүнтэй" },
+            { "value": "2", "label": "Номтой" },
+            { "value": "3", "label": "Номгүй" },
+            { "value": "4", "label": "Хэрэглэгдэхүүн дутуу" },
+            { "value": "5", "label": "Байхгүй" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub_5_3",
+      "order": 3,
+      "title": "Сонгонд хамрагдсан байдал",
+      "color_name": "Ногоон / Green",
+      "theme": {
+        "header": "#059669",
+        "background": "#ECFDF5",
+        "accent": "#10B981",
+        "border": "#A7F3D0",
+        "badge": "#D1FAE5",
+        "badge_text": "#065F46"
+      },
+      "responsive": {
+        "columns_mobile": 1,
+        "columns_desktop": 1,
+        "gap": "gap-3"
+      },
+      "questions_count": 1,
+      "questions": [
+        {
+          "id": "Q077",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Сонгонд хамрагдсан байдал",
+          "sub_section_id": "sub_5_3",
+          "source_row": 3,
+          "source_column": 139,
+          "question": "Сонгонд хамрагдсан байдал",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Монгол хэл, уран зохиол" },
+            { "value": "2", "label": "Математик" },
+            { "value": "3", "label": "Гадаад хэл" },
+            { "value": "4", "label": "Физик" },
+            { "value": "5", "label": "Хими" },
+            { "value": "6", "label": "Биологи" },
+            { "value": "7", "label": "Түүх, нийгмийн ухаан" },
+            { "value": "8", "label": "Газарзүй" },
+            { "value": "9", "label": "Сонгонд хамрагдаагүй" },
+            { "value": "10", "label": "Бусад хичээл" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sub_5_4",
+      "order": 4,
+      "title": "Авьяас чадвараа хөгжүүлэх сонирхол",
+      "color_name": "Улбар шар / Orange",
+      "theme": {
+        "header": "#D97706",
+        "background": "#FFFBEB",
+        "accent": "#F59E0B",
+        "border": "#FDE68A",
+        "badge": "#FEF3C7",
+        "badge_text": "#92400E"
+      },
+      "responsive": {
+        "columns_mobile": 1,
+        "columns_desktop": 2,
+        "gap": "gap-3"
+      },
+      "questions_count": 7,
+      "questions": [
+        {
+          "id": "Q078",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Авьяас чадвараа хөгжүүлэх сонирхол",
+          "sub_section_id": "sub_5_4",
+          "source_row": 3,
+          "source_column": 147,
+          "question": "Урлаг",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Дуу" },
+            { "value": "2", "label": "Бүжиг" },
+            { "value": "3", "label": "Яруу найраг" },
+            { "value": "4", "label": "Уран уншлага" },
+            { "value": "5", "label": "Жүжиг" },
+            { "value": "6", "label": "Хөгжим" },
+            { "value": "7", "label": "Уран нугаралт" },
+            { "value": "8", "label": "Оролцдоггүй" }
+          ]
+        },
+        {
+          "id": "Q079",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Авьяас чадвараа хөгжүүлэх сонирхол",
+          "sub_section_id": "sub_5_4",
+          "source_row": 3,
+          "source_column": 149,
+          "question": "Спорт",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Сагсан бөмбөг" },
+            { "value": "2", "label": "Гар бөмбөг" },
+            { "value": "3", "label": "Хөл бөмбөг" },
+            { "value": "4", "label": "Теннис" },
+            { "value": "5", "label": "Бөх" },
+            { "value": "6", "label": "Бокс" },
+            { "value": "7", "label": "Дугуйн спорт" },
+            { "value": "8", "label": "Уран сайхны гимнастик" },
+            { "value": "9", "label": "Таеквондо" },
+            { "value": "10", "label": "Хүндийн өргөлт" },
+            { "value": "11", "label": "Буудлага" },
+            { "value": "12", "label": "Гүйлт" },
+            { "value": "13", "label": "Тэшүүр" },
+            { "value": "14", "label": "Бадминтон" },
+            { "value": "15", "label": "Оролцдоггүй" }
+          ]
+        },
+        {
+          "id": "Q080",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Авьяас чадвараа хөгжүүлэх сонирхол",
+          "sub_section_id": "sub_5_4",
+          "source_row": 3,
+          "source_column": 151,
+          "question": "Оюуны спорт",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "IQ спорт" },
+            { "value": "2", "label": "Шатар" },
+            { "value": "3", "label": "Даам" },
+            { "value": "4", "label": "Соробан сампин" },
+            { "value": "5", "label": "Оюун ухааны академи" },
+            { "value": "6", "label": "Оролцдоггүй" }
+          ]
+        },
+        {
+          "id": "Q081",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Авьяас чадвараа хөгжүүлэх сонирхол",
+          "sub_section_id": "sub_5_4",
+          "source_row": 3,
+          "source_column": 153,
+          "question": "Хувь хүний хөгжлийн чиглэлээр",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Илтгэл мэтгэлцээн" },
+            { "value": "2", "label": "Бусад манлайлал" },
+            { "value": "3", "label": "Байхгүй" }
+          ]
+        },
+        {
+          "id": "Q082",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Авьяас чадвараа хөгжүүлэх сонирхол",
+          "sub_section_id": "sub_5_4",
+          "source_row": 3,
+          "source_column": 155,
+          "question": "Амьдрах ухаан",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Уран бичлэг" },
+            { "value": "2", "label": "Сийлбэр" },
+            { "value": "3", "label": "Техник сэтгэлгээ, зохион бүтээх" },
+            { "value": "4", "label": "Нэхмэл" },
+            { "value": "5", "label": "Оёдол" },
+            { "value": "6", "label": "Гар урлал" },
+            { "value": "7", "label": "Байхгүй" }
+          ]
+        },
+        {
+          "id": "Q083",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Авьяас чадвараа хөгжүүлэх сонирхол",
+          "sub_section_id": "sub_5_4",
+          "source_row": 3,
+          "source_column": 157,
+          "question": "Хөгжлийн дэмжих үйлчилгээ үзүүлсэн байгууллага",
+          "type": "select",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Сургууль" },
+            { "value": "2", "label": "Хүүхдийн ордон" },
+            { "value": "3", "label": "Хөгжлийн төвүүд" },
+            { "value": "4", "label": "Хөгжимт драмын театр" },
+            { "value": "5", "label": "Дотуур байр" },
+            { "value": "6", "label": "Аваагүй" }
+          ]
+        },
+        {
+          "id": "Q084",
+          "section_id": 5,
+          "section": "V. Сурч боловсрох эрхийн хүрээнд",
+          "sub_section": "Авьяас чадвараа хөгжүүлэх сонирхол",
+          "sub_section_id": "sub_5_4",
+          "source_row": 3,
+          "source_column": 159,
+          "question": "Төлбөртэй сургалтанд хамрагддаг эсэх",
+          "type": "radio",
+          "required": false,
+          "options": [
+            { "value": "1", "label": "Тийм" },
+            { "value": "2", "label": "Үгүй" }
+          ]
+        }
+      ]
+    }
+  ]
+}
